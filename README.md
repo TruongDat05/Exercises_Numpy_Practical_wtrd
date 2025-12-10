@@ -1,0 +1,1 @@
+# Exercises_Numpy_Practical_wtrd
