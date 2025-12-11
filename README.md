@@ -1,1 +1,1 @@
-This is contain exercises in NumPy and my solution 
+It contains exercises in NumPy and my solution 
