@@ -1,1 +1,1 @@
-# Exercises_Numpy_Practical_wtrd
+This is contain exercises in NumPy and my solution 
